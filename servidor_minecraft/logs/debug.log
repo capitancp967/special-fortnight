@@ -14000,3 +14000,22 @@ java.lang.Throwable: null
 [28Sep2025 06:39:08.515] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [28Sep2025 06:39:08.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Sep2025 06:39:08.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Sep2025 06:44:08.477] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Sep2025 06:44:08.511] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Sep2025 06:44:08.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Sep2025 06:44:08.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Sep2025 06:49:08.482] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[28Sep2025 06:49:08.520] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[28Sep2025 06:49:08.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Sep2025 06:49:08.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Sep2025 06:49:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala has made the advancement [It Belongs in a Museum]
+[28Sep2025 06:49:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was shot by Skeleton
+[28Sep2025 06:49:36.157] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759042176156
+[28Sep2025 06:50:35.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala has made the advancement [Once Upon a Cave]
+[28Sep2025 06:53:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was shot by Skeleton
+[28Sep2025 06:53:01.961] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Sep2025 06:53:01.961] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[28Sep2025 06:53:01.961] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Sep2025 06:53:01.962] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Sep2025 06:53:01.962] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Sep2025 06:53:03.291] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1759042383291

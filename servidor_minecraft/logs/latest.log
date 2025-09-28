@@ -1821,3 +1821,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [28Sep2025 06:36:09.129] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, -26], pos: BlockPos{x=394, y=-57, z=-401}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tfmg:oil_deposit]
 [28Sep2025 06:36:09.129] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, -26], pos: BlockPos{x=395, y=-56, z=-401}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tfmg:oil_deposit]
 [28Sep2025 06:36:09.129] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [24, -26], pos: BlockPos{x=396, y=-56, z=-401}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tfmg:oil_deposit]
+[28Sep2025 06:49:11.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala has made the advancement [It Belongs in a Museum]
+[28Sep2025 06:49:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was shot by Skeleton
+[28Sep2025 06:50:35.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala has made the advancement [Once Upon a Cave]
+[28Sep2025 06:53:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was shot by Skeleton
+[28Sep2025 06:53:01.961] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Sep2025 06:53:01.961] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[28Sep2025 06:53:01.961] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Sep2025 06:53:01.962] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Sep2025 06:53:01.962] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0

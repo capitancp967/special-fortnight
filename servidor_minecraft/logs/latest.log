@@ -1830,3 +1830,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [28Sep2025 06:53:01.961] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
 [28Sep2025 06:53:01.962] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [28Sep2025 06:53:01.962] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Sep2025 06:54:26.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was slain by Zombie
+[28Sep2025 06:54:47.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Spectator Mode]
+[28Sep2025 06:55:09.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[28Sep2025 06:58:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was shot by Stray
+[28Sep2025 06:58:52.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was shot by Stray
+[28Sep2025 07:03:18.965] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:03:18.972] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:03:18.973] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:03:18.995] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:03:18.999] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:03:18.999] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:03:19.000] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:03:19.002] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:03:19.007] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[28Sep2025 07:05:46.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala has made the advancement [Dark Metallurgy]
+[28Sep2025 07:06:41.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Spectator Mode]
+[28Sep2025 07:06:45.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala has made the advancement [Alex's Caves]
+[28Sep2025 07:07:16.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[28Sep2025 07:07:55.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala has made the advancement [Deceived Hopes]
+[28Sep2025 07:11:08.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Spectator Mode]
+[28Sep2025 07:11:41.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[28Sep2025 07:12:36.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yumalala lost connection: Disconnected
+[28Sep2025 07:12:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala left the game

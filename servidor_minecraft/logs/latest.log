@@ -1,0 +1,42 @@
+[27Oct2025 00:00:01.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Spectator Mode]
+[27Oct2025 00:00:05.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[27Oct2025 00:00:45.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Spectator Mode]
+[27Oct2025 00:00:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[27Oct2025 00:00:48.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Creative Mode]
+[27Oct2025 00:00:49.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[27Oct2025 00:01:17.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was blown up by Creeper
+[27Oct2025 00:12:50.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala has made the advancement [Double Trouble]
+[27Oct2025 00:19:36.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala was shot by Skeleton
+[27Oct2025 00:19:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Creative Mode]
+[27Oct2025 00:20:01.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[27Oct2025 00:20:03.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Spectator Mode]
+[27Oct2025 00:21:21.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[27Oct2025 00:23:09.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1007, y=31, z=302} BlockPos{x=-1007, y=31, z=305}
+[27Oct2025 00:23:34.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Spectator Mode]
+[27Oct2025 00:23:46.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Adventure Mode]
+[27Oct2025 00:23:50.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[27Oct2025 00:24:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Spectator Mode]
+[27Oct2025 00:24:27.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yumalala: Set own game mode to Survival Mode]
+[27Oct2025 00:41:36.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala withered away whilst fighting Nightmare Stalker
+[27Oct2025 00:42:33.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yumalala lost connection: Disconnected
+[27Oct2025 00:42:33.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yumalala left the game
+[27Oct2025 00:42:33.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 56509ms or 1130 ticks behind
+[27Oct2025 00:42:36.838] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[27Oct2025 00:42:39.154] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[27Oct2025 00:42:40.557] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Oct2025 00:42:41.164] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 12b6a44b-bfff-45b8-aed8-7c5df942d933
+[27Oct2025 00:42:41.257] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID b3231734-f2b6-4a6b-a29e-36e2f61e3d01
+[27Oct2025 00:42:41.258] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/special-fortnight/servidor_minecraft/./crash-reports/crash-2025-10-27_00.42.41-server.txt
+[27Oct2025 00:42:41.293] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[27Oct2025 00:42:41.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Oct2025 00:42:41.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Oct2025 00:42:41.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Oct2025 00:42:41.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Oct2025 00:42:49.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[27Oct2025 00:42:49.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Oct2025 00:42:49.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Oct2025 00:42:49.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Oct2025 00:42:49.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[27Oct2025 00:42:49.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Oct2025 00:42:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Oct2025 00:42:49.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
